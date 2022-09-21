@@ -3,7 +3,7 @@
 Create a java file called **quiz.java** and upload it to this repo. For each program, do not have any extraneous print statements. The output must be exact.
 
 ---
-Inside that file create a class called TimeQuestion.
+Inside that file create a class called **TimeQuestion**.
 
 Write a program that reads 2 lines from the user: the time form HH:MM and a number of hours. 
 Your program outputs the time that many hours later in the form HH:MM.
@@ -46,7 +46,7 @@ Your program outputs the time that many hours later in the form HH:MM.
 
 ---
 
-Inside that file create a class called BinaryQuestion.
+Inside that file create a class called **BinaryQuestion**.
 
 Write a program that reads a sequence of characters from the user and outputs if it is a valid 8 bit binary number. 
 
