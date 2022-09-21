@@ -1,6 +1,6 @@
 # 4u-unit1-quiz
 
-Create a java file called **quiz.java** and upload it to this repo. For each program, do not have any extraneous print statements i.e. no prompts. The output must be exact.
+Create a java file called **Quiz.java** and upload it to this repo. For each program, do not have any extraneous print statements i.e. no prompts. The output must be exact.
 
 ---
 Inside that file create a class called **TimeQuestion**.
